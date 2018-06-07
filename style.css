@@ -1776,3 +1776,26 @@ button:focus {
 .navbar-brand>.img {
 	width : 86px;
 }
+.mu-hero-featured-content>h2 {
+	text-transform: capitalize;
+}
+.mu-about-right li {
+	margin: 0 0 5px 20px;
+	font-size: 15px;
+}
+.mu-sponsors-single {
+	background: transparent;
+}
+.mu-sponsors-single>img {
+	width: auto;
+	height: 140px;
+}
+
+.download-link {
+	margin-top:15px;
+	display: block;
+}
+.pdf {
+	height: 30px;
+	width: 30px;
+}
