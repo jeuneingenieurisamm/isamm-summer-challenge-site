@@ -1799,3 +1799,14 @@ button:focus {
 	height: 30px;
 	width: 30px;
 }
+
+.mu-single-speakers img {
+	height: 160px;
+	width: auto;
+	margin:auto;
+}
+
+.mu-sponsors-single {
+	text-align:center;
+	margin-top: 15px;
+}
