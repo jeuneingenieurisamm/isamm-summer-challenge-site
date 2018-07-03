@@ -221,7 +221,7 @@ button:focus {
 /*--------------------*/
 
 #mu-hero {
-	background-image: url("assets/images/head-featured-bg.jpg");
+	background-image: url("assets/images/background2.jpg");
 	display: inline;
 	float: left;
 	width: 100%;
@@ -973,7 +973,7 @@ button:focus {
 }
 
 #mu-register::before {
-	background: rgba(0,0,0,0.9);
+	background: rgba(0,0,0,0.3);
 	bottom: 0;
 	content: '';
 	left: 0;
@@ -1102,7 +1102,7 @@ button:focus {
 .mu-faq-area {
 	display: inline;
 	float: left;
-	padding: 150px 0;
+	padding: 100px 0;
 	width: 100%;
 }
 
